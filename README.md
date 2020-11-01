@@ -21,10 +21,10 @@
 
 <h3 align="left">GitHub stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=21tretiak0101&hide=stars,issues,contribs&theme=buefy&show_icons=true&hide_border=true&cache_seconds=1800&hide_rank=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=21tretiak0101&hide=issues,stars&theme=buefy&show_icons=true&cache_seconds=1800&hide_title=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" styles="margin-left:100px;">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.java.com" target="_blank">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
