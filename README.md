@@ -21,7 +21,7 @@
 
 <h3 align="left">GitHub stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=21tretiak0101&hide=stars,issues&theme=buefy&show_icons=true&cache_seconds=1800&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=21tretiak0101&hide=stars,issues,contribs&theme=buefy&show_icons=true&hide_border=true&cache_seconds=1800&hide_rank=true&hide_title=true" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
