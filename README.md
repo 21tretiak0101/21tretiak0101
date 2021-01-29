@@ -18,8 +18,3 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="ttre16" height="30" width="40" />
 </a>
 </p>
-
-<h3 align="left">GitHub stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=21tretiak0101&hide=issues,stars&theme=buefy&show_icons=true&cache_seconds=1800&hide_title=true" />
-</p>
