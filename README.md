@@ -9,12 +9,12 @@
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/IliaTretiak" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="iliatretiak" height="30" width="40" />
+  <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="iliatretiak" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/ttre16" target="blank">
   <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="ttre16" height="30" width="40" />
 </a>
-<a href="http://t.me/ttre16" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="ttre16" height="30" width="40" />
+<a href="https://t.me/ttre16" target="blank">
+  <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="ttre16" height="30" width="40" />
 </a>
 </p>
