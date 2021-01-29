@@ -6,15 +6,14 @@
 - 💬 Ask me about anything <a href="http://t.me/ttre16">here</a>
 
 
-<p align="left"> 
-<h3 align="left">Connect with me:</h3>
+<h3>Connect with me:</h3>
+
 <a href="https://twitter.com/IliaTretiak" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="iliatretiak" height="30" width="40" />
+  <img align="left" alt="Ilia Tretiak | Twitter" width="20" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
 </a>
 <a href="https://linkedin.com/in/ttre16" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="ttre16" height="30" width="40" />
+  <img align="left" alt="Ilia Tretiak | LinkedIn" width="20" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
 <a href="https://t.me/ttre16" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="ttre16" height="30" width="40" />
+  <img align="left" alt="Ilia Tretiak | Telegram" width="20" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />
 </a>
-</p>
