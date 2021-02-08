@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my project <a href="https://github.com/21tretiak0101/briana-crm/tree/dev">BrianaCRM</a>
-- 🌱 I’m currently learning <a href="https://docs.ansible.com/ansible/latest">Ansible</a>
+- 🌱 I’m currently learning <a href="https://spring.io/cloud">Spring Cloud</a>
 - 💬 Ask me about anything <a href="http://t.me/ttre16">here</a>
 
 
