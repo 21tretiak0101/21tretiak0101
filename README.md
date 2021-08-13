@@ -8,7 +8,7 @@
 
 <h3>Connect with me:</h3>
 
-<a href="https://twitter.com/IliaTretiak" target="blank">
+<a href="https://twitter.com/21tretiak0101" target="blank">
   <img align="left" alt="Ilia Tretiak | Twitter" width="20" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
 </a>
 <a href="https://linkedin.com/in/ttre16" target="blank">
